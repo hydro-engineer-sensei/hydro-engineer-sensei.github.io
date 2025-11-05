@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Hydro Engineer Sensei's Blog</title><link>https://hydro-engineer-sensei.github.io/posts/</link><description>Recent content in Posts on Hydro Engineer Sensei's Blog</description><generator>Hugo -- 0.152.0</generator><language>en-us</language><lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hydro-engineer-sensei.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://hydro-engineer-sensei.github.io/posts/20251105-1006_my-first-blog-post/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>https://hydro-engineer-sensei.github.io/posts/20251105-1006_my-first-blog-post/</guid><description>&lt;p&gt;Welcome to my blog! This is my first post using Hugo and PaperMod.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Hydro Engineer Sensei's Blog</title><link>https://hydro-engineer-sensei.github.io/posts/</link><description>Recent content in Posts on Hydro Engineer Sensei's Blog</description><generator>Hugo -- 0.152.0</generator><language>en-us</language><lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hydro-engineer-sensei.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Mathematical Communication Theory</title><link>https://hydro-engineer-sensei.github.io/posts/20251105-1102_math-with-citations/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>https://hydro-engineer-sensei.github.io/posts/20251105-1102_math-with-citations/</guid><description>&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The foundations of information theory were laid by Shannon&lt;sup class="citation"&gt;&lt;a href="#ref-shannon1948"&gt;[shannon1948]&lt;/a&gt;&lt;/sup&gt;, building upon earlier work in computability by Turing&lt;sup class="citation"&gt;&lt;a href="#ref-turing1936"&gt;[turing1936]&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2 id="mathematical-formulation"&gt;Mathematical Formulation&lt;/h2&gt;
+&lt;p&gt;Shannon&amp;rsquo;s entropy is defined as:&lt;/p&gt;
+&lt;p&gt;$$
+H(X) = -\sum_{i=1}^{n} P(x_i) \log_2 P(x_i)
+$$&lt;/p&gt;
+&lt;p&gt;This can be related to Einstein&amp;rsquo;s&lt;sup class="citation"&gt;&lt;a href="#ref-einstein1905"&gt;[einstein1905]&lt;/a&gt;&lt;/sup&gt; work in statistical mechanics.&lt;/p&gt;
+&lt;p&gt;Inline math also works: The energy-mass equivalence is $E = mc^2$.&lt;/p&gt;
+&lt;h2 id="more-complex-equations"&gt;More Complex Equations&lt;/h2&gt;
+&lt;p&gt;The Gaussian integral:&lt;/p&gt;
+&lt;p&gt;$$
+\int_{-\infty}^{\infty} e^{-\frac{x^2}{2}} dx = \sqrt{2\pi}
+$$&lt;/p&gt;
+&lt;p&gt;Matrix notation:&lt;/p&gt;
+&lt;p&gt;$$
+\mathbf{A} = \begin{bmatrix}
+a_{11} &amp;amp; a_{12} \
+a_{21} &amp;amp; a_{22}
+\end{bmatrix}
+$$&lt;/p&gt;</description></item><item><title>My First Post</title><link>https://hydro-engineer-sensei.github.io/posts/20251105-1006_my-first-blog-post/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>https://hydro-engineer-sensei.github.io/posts/20251105-1006_my-first-blog-post/</guid><description>&lt;p&gt;Welcome to my blog! This is my first post using Hugo and PaperMod.&lt;/p&gt;
 &lt;p&gt;Inline equation: $E = mc^2$&lt;/p&gt;
 &lt;p&gt;Display equation:
 $$
